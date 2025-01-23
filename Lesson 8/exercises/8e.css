@@ -1,0 +1,28 @@
+.title{
+    font-size: 30px;
+    font-family: arial;
+    margin-bottom: 20px;
+}
+
+.location{
+    background-color: rgb(242, 242, 242);
+    display: block;
+    border: none;
+    border-radius: 2px;
+    padding: 8px;
+    width: 300px;
+    font-size: 12px;
+    font-family: arial;
+    margin-top: 10px;
+}
+
+button{
+    margin-top: 10px;
+    border: none;
+    font-family: Arial, Helvetica, sans-serif;
+    padding: 10px 20px;
+}
+.req-btn{
+    color: white;
+    background-color: black;
+}
