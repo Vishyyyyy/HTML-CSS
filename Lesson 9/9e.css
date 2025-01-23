@@ -1,0 +1,40 @@
+.pfp{
+    width:  50px;
+    height: 50px;
+    border-radius: 25px;
+    object-fit: cover;
+    object-position: center;
+    vertical-align: middle;
+    margin-right: 10px;
+}
+
+.textbox{
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 18px;
+    width: 300px;
+    border: none;
+    vertical-align: middle;
+}
+
+.tweet{
+    color: white;
+    background-color: rgb(29,155,240);
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 16px;
+    font-weight: bold;
+    border-radius: 30px;
+    border: none;
+    padding: 8px 16px;
+    vertical-align: middle;
+}
+
+.box{
+    border: solid;
+    border-width: 1px;
+    border-color: rgb(194, 194, 194);
+    padding: 10px 20px;
+    display: inline-block;
+    width: 450px;
+    border-radius: 8px;
+    box-shadow: 0 0 6px rgba(0,0,0, 0.3);
+}

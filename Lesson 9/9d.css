@@ -1,0 +1,17 @@
+p{
+    font-family: arial;
+}
+.card{
+    width: 360px;
+    background-color: rgb(33, 33, 33);
+    padding: 10px 20px;
+}
+.product{
+    color: white;
+    font-size:24px ;
+    font-weight: bold;
+    margin-bottom: 0px;
+}
+.desc{
+    color: rgb(165, 165, 165);
+}
