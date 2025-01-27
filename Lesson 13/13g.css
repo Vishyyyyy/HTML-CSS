@@ -1,0 +1,76 @@
+body{
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+div{
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+.container{
+    display: flex;
+    justify-content: start;
+    width: 450px;
+    margin-left: 20px;
+}
+
+.pfp{
+    width: 50px;
+    height: 50px;
+    object-fit: cover;
+    border-radius: 25px;
+}
+
+.profile-picture{
+    margin-right: 15px;
+}
+
+.tweet-content{
+    display: flex;
+    flex-direction: column;
+    row-gap: 20px;
+}
+
+.user-name{
+    font-weight: bold;
+    font-size: 16px;
+    margin-bottom: 7px;
+}
+
+.handle{
+    color: darkgray;
+    margin-left: 8px;
+}
+
+.tweet .link-title{
+    line-height: 22px;
+}
+
+.block2{
+    border: solid;
+    border-width: 1px;
+    border-color: gray;
+    height: 120px;
+    border-radius: 20px;
+    display: flex;
+
+}
+    
+.graybox{
+    background-color: rgb(177, 177, 177);
+    width: 200px;
+    height: auto;
+    border-top-left-radius: 20px;
+    border-bottom-left-radius: 20px;
+}
+
+.link-info{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    padding: 0px 20px;
+}
+
+.link-address{
+    color: darkgray;
+    margin:5px;
+}

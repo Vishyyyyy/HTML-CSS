@@ -1,0 +1,14 @@
+.image-container{
+    position: relative;
+    display: inline-block;
+}
+.discount{
+    position: absolute;
+    top: 0px;
+    right: 0px;
+    background-color: black;
+    color: white;
+    font-family: Arial, Helvetica, sans-serif;
+    padding: 4px 10px;
+    font-size: 14px;
+}

@@ -1,0 +1,34 @@
+.bottom-right{
+    width: 320px;
+    height: 180px;
+    background-color: gray;
+
+    position: fixed;
+    bottom: 10px;
+    right: 10px;
+}
+
+.close{
+    background-color: black;
+    border: none;
+    border-radius: 90px;
+    color: white;
+
+    padding:8px 12px;
+
+    position: absolute;
+
+    top:-10px;
+    left: -10px;
+}
+
+.time{
+    background-color: black;
+    border: none;
+    color: white;
+    position: absolute;
+
+    bottom: 2px;
+
+    right: 2px;
+}

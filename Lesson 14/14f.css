@@ -1,0 +1,44 @@
+.sidebar1{
+    position: fixed;
+    left: 0;
+    top: 0;
+    bottom: 0;
+    width: 80px;
+    padding-top: 20px;
+
+    background-color: darkslategray;
+    
+}
+
+.sidebar2{
+    position: fixed;
+    left: 80px;
+    top: 0;
+    bottom: 0;
+    width: 200px;
+    padding-top: 20px;
+
+
+    background-color: darkgray;
+}
+
+.profile-picture{
+    width: 60px;
+    height: 60px;
+    border-radius: 30px;
+    object-fit: cover;
+    margin-bottom: 5px;
+}
+
+.info-row{
+    display: flex;
+    justify-content: space-around;
+}
+
+.rows{
+    color: white;
+}
+
+.rows div{
+    margin: 20px;
+}

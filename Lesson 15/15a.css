@@ -1,0 +1,13 @@
+.close{
+    background-color: black;
+    border: none;
+    border-radius: 90px;
+    color: white;
+
+    padding:8px 12px;
+
+    position: absolute;
+
+    top: 1rem;
+    right: 1rem;
+}
